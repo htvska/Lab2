@@ -1,0 +1,21 @@
+# Временные папки Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Результаты компиляции
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.ipch
+
+# Личные настройки Visual Studio
+*.suo
+*.vcxproj.user
+*.VC.db
